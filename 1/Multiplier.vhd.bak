@@ -1,0 +1,6 @@
+entity Multiplier is
+			generic (n: integer :=4);
+			port (
+						Rst, CLK, SI	: in std_logic;
+						Low, High		: out std_logic_vector (n-1 downto 0));
+end Multiplier;
