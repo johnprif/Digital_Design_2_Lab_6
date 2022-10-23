@@ -1,0 +1,368 @@
+$comment
+	File created using the following command:
+		vcd file MySixthProject.msim.vcd -direction
+$end
+$date
+	Tue Apr 27 23:20:26 2021
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module CtrlLogic_vlg_vec_tst $end
+$var reg 1 ! CLK $end
+$var reg 1 " Rst $end
+$var wire 1 # EN_A $end
+$var wire 1 $ EN_B $end
+$var wire 1 % EN_C $end
+$var wire 1 & EN_H $end
+$var wire 1 ' EN_L $end
+$var wire 1 ( SL_A $end
+$var wire 1 ) SL_B $end
+$var wire 1 * SL_C $end
+$var wire 1 + SL_H $end
+$var wire 1 , SL_L $end
+$var wire 1 - sampler $end
+$scope module i1 $end
+$var wire 1 . gnd $end
+$var wire 1 / vcc $end
+$var wire 1 0 unknown $end
+$var tri1 1 1 devclrn $end
+$var tri1 1 2 devpor $end
+$var tri1 1 3 devoe $end
+$var wire 1 4 count[0]~12_combout $end
+$var wire 1 5 CLK~combout $end
+$var wire 1 6 CLK~clkctrl_outclk $end
+$var wire 1 7 count[1]~4_combout $end
+$var wire 1 8 Rst~combout $end
+$var wire 1 9 Rst~clkctrl_outclk $end
+$var wire 1 : count[1]~5 $end
+$var wire 1 ; count[2]~7 $end
+$var wire 1 < count[3]~8_combout $end
+$var wire 1 = count[3]~9 $end
+$var wire 1 > count[4]~10_combout $end
+$var wire 1 ? count[2]~6_combout $end
+$var wire 1 @ Equal0~0_combout $end
+$var wire 1 A state.LOAD~0_combout $end
+$var wire 1 B state.LOAD~regout $end
+$var wire 1 C Selector1~0_combout $end
+$var wire 1 D state.ADD~regout $end
+$var wire 1 E state.SHIFT~feeder_combout $end
+$var wire 1 F state.SHIFT~regout $end
+$var wire 1 G SL_B~0_combout $end
+$var wire 1 H EN_H~0_combout $end
+$var wire 1 I count [4] $end
+$var wire 1 J count [3] $end
+$var wire 1 K count [2] $end
+$var wire 1 L count [1] $end
+$var wire 1 M count [0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+1#
+1$
+0%
+0&
+0'
+1(
+1)
+0*
+0+
+0,
+x-
+0.
+1/
+x0
+11
+12
+13
+14
+05
+06
+07
+08
+09
+0:
+1;
+0<
+0=
+0>
+0?
+0@
+0A
+0B
+0C
+0D
+0E
+0F
+1G
+0H
+0M
+0L
+0K
+0J
+0I
+$end
+#40000
+1!
+15
+16
+0-
+1M
+17
+04
+#80000
+0!
+05
+06
+1-
+#120000
+1!
+15
+16
+0-
+1L
+0M
+14
+#160000
+0!
+05
+06
+1-
+#200000
+1!
+15
+16
+0-
+1M
+1:
+07
+04
+1?
+#240000
+0!
+05
+06
+1-
+#280000
+1!
+15
+16
+0-
+1K
+0L
+0M
+0;
+0?
+0:
+14
+1<
+1;
+1?
+0<
+#320000
+0!
+05
+06
+1-
+#360000
+1!
+15
+16
+0-
+1M
+17
+04
+#400000
+0!
+05
+06
+1-
+#440000
+1!
+15
+16
+0-
+1L
+0M
+14
+#480000
+0!
+05
+06
+1-
+#520000
+1!
+15
+16
+0-
+1M
+1@
+1:
+07
+04
+1C
+1A
+0;
+0?
+1<
+#560000
+0!
+05
+06
+1-
+#600000
+1!
+15
+16
+0-
+1D
+1B
+0K
+1J
+0L
+0M
+1H
+1E
+0G
+0C
+0@
+1;
+1?
+1=
+0<
+0:
+14
+1%
+0(
+0#
+0=
+1<
+1>
+0?
+1&
+0$
+0)
+0>
+#640000
+0!
+05
+06
+1-
+#680000
+1!
+15
+16
+0-
+1F
+0D
+1M
+1G
+1C
+0E
+17
+04
+1'
+1,
+1+
+0%
+1$
+1)
+#720000
+0!
+05
+06
+1-
+#760000
+1!
+15
+16
+0-
+0F
+1D
+1L
+0M
+0G
+0C
+1E
+14
+0'
+0,
+0+
+1%
+0$
+0)
+#800000
+0!
+05
+06
+1-
+#840000
+1!
+15
+16
+0-
+1F
+0D
+1M
+1G
+1C
+0E
+1:
+07
+04
+1'
+1,
+1+
+0%
+1?
+1$
+1)
+#880000
+0!
+05
+06
+1-
+#920000
+1!
+15
+16
+0-
+0F
+1D
+1K
+0L
+0M
+0G
+0C
+1E
+0;
+0?
+0:
+14
+0'
+0,
+0+
+1%
+1=
+0<
+1;
+1?
+0$
+0)
+1>
+0=
+1<
+0>
+#960000
+0!
+05
+06
+1-
+#1000000
