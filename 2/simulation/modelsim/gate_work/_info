@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\lab6 - Copy\simulation\modelsim
+vMultiplier
+!i10b 1
+!s100 `[;Zh3ab7ek`d5e1FTMeF1
+IWBV6Ql;fk61oH`dFAAXb43
+VgTGgP_O:Y?i25z@8cFU7W0
+Z1 dC:\altera\13.0sp1\lab6 - Copy\simulation\modelsim
+w1619532199
+8MySixthProject.vo
+FMySixthProject.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1619533203.549000
+!s107 MySixthProject.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|MySixthProject.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+n@multiplier

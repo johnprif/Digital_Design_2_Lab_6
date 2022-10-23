@@ -1,0 +1,225 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\lab6 - Copy\simulation\modelsim
+Eadder
+Z1 w1619529875
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\altera\13.0sp1\lab6 - Copy\simulation\modelsim
+Z7 8C:/altera/13.0sp1/lab6 - Copy/Adder.vhd
+Z8 FC:/altera/13.0sp1/lab6 - Copy/Adder.vhd
+l0
+L6
+V6N@=b85:YjhmDgWXd]l`G2
+Z9 OV;C;10.1d;51
+33
+Z10 !s108 1619561984.067000
+Z11 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab6 - Copy/Adder.vhd|
+Z12 !s107 C:/altera/13.0sp1/lab6 - Copy/Adder.vhd|
+Z13 o-2008 -work work -O0
+Z14 tExplicit 1
+!s100 NNFNkMX`lF1bd4Cmi9oMj1
+!i10b 1
+Adataflow
+R2
+R3
+R4
+R5
+DEx4 work 5 adder 0 22 6N@=b85:YjhmDgWXd]l`G2
+l15
+L13
+VZel4idRA9UDW^MAAAdAE32
+R9
+33
+R10
+R11
+R12
+R13
+R14
+!s100 5ZK2>TiYDBoTR[l8WhA0N2
+!i10b 1
+Ectrllogic
+Z15 w1619531161
+Z16 DPx4 work 12 declarations 0 22 2:C8ki0d@:@hbAm:4G<k12
+R2
+R3
+R4
+R5
+R6
+Z17 8C:/altera/13.0sp1/lab6 - Copy/CtrlLogic.vhd
+Z18 FC:/altera/13.0sp1/lab6 - Copy/CtrlLogic.vhd
+l0
+L7
+VT`@7^@=WDmhBm8`]9j^`i3
+R9
+33
+Z19 !s108 1619561984.219000
+Z20 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab6 - Copy/CtrlLogic.vhd|
+Z21 !s107 C:/altera/13.0sp1/lab6 - Copy/CtrlLogic.vhd|
+R13
+R14
+!s100 ILBMRnQ1Tbz95bj3AHiM@3
+!i10b 1
+Artl
+R16
+R2
+R3
+R4
+R5
+DEx4 work 9 ctrllogic 0 22 T`@7^@=WDmhBm8`]9j^`i3
+l19
+L14
+Vz]a6T8l7[o9Xj;Dl7;ZOB0
+R9
+33
+R19
+R20
+R21
+R13
+R14
+!s100 >O1Fm=E1<:JEcP:Yde`d_0
+!i10b 1
+Pdeclarations
+R4
+R5
+w1619284793
+R6
+8C:/altera/13.0sp1/lab6 - Copy/Declare.vhd
+FC:/altera/13.0sp1/lab6 - Copy/Declare.vhd
+l0
+L4
+V2:C8ki0d@:@hbAm:4G<k12
+R9
+33
+R13
+R14
+!s100 :;F=QcW8OWA_=7QJ[NGe^0
+!i10b 1
+!s108 1619561984.153000
+!s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab6 - Copy/Declare.vhd|
+!s107 C:/altera/13.0sp1/lab6 - Copy/Declare.vhd|
+Emultiplier
+Z22 w1619532183
+R16
+R2
+R3
+R4
+R5
+R6
+Z23 8C:/altera/13.0sp1/lab6 - Copy/Multiplier.vhd
+Z24 FC:/altera/13.0sp1/lab6 - Copy/Multiplier.vhd
+l0
+L7
+VmlS2Xjd@WC8CDTf[8gXCj2
+R9
+33
+Z25 !s108 1619561984.295000
+Z26 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab6 - Copy/Multiplier.vhd|
+Z27 !s107 C:/altera/13.0sp1/lab6 - Copy/Multiplier.vhd|
+R13
+R14
+!s100 _fabk`3_L;MGdel_DFGRN1
+!i10b 1
+Artl_mul
+R16
+R2
+R3
+R4
+R5
+DEx4 work 10 multiplier 0 22 mlS2Xjd@WC8CDTf[8gXCj2
+l44
+L15
+VNONcaW^iZaX@hWbV5b>Y[3
+R9
+33
+R25
+R26
+R27
+R13
+R14
+!s100 >6V9dnWP_bNdbokGNYTKG0
+!i10b 1
+Emultiplier_tb
+Z28 w1619561972
+R16
+Z29 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R3
+Z30 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R2
+R4
+R5
+R6
+Z31 8C:/altera/13.0sp1/lab6 - Copy/simulation/modelsim/multiplier_tb.vhd
+Z32 FC:/altera/13.0sp1/lab6 - Copy/simulation/modelsim/multiplier_tb.vhd
+l0
+L13
+V`0W>;QlF8_d8fC>JJZ>g10
+!s100 _Z?0KQ73?@jE^2?h[AN^b1
+R9
+33
+!i10b 1
+Z33 !s108 1619561984.373000
+Z34 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab6 - Copy/simulation/modelsim/multiplier_tb.vhd|
+Z35 !s107 C:/altera/13.0sp1/lab6 - Copy/simulation/modelsim/multiplier_tb.vhd|
+R13
+R14
+Amultiplier_tb_arch
+R16
+R29
+R3
+R30
+R2
+R4
+R5
+DEx4 work 13 multiplier_tb 0 22 `0W>;QlF8_d8fC>JJZ>g10
+l41
+L18
+V25bB2`NlHCC`Dkbf=9kb;1
+!s100 PizhnTmdAM4ADnZ=7zP<g1
+R9
+33
+!i10b 1
+R33
+R34
+R35
+R13
+R14
+Ereg
+Z36 w1619529833
+R4
+R5
+R6
+Z37 8C:/altera/13.0sp1/lab6 - Copy/Reg.vhd
+Z38 FC:/altera/13.0sp1/lab6 - Copy/Reg.vhd
+l0
+L4
+Vk6I;c^<deNP1]<I9^9?G42
+R9
+33
+Z39 !s108 1619561983.991000
+Z40 !s90 -reportprogress|300|-2008|-work|work|C:/altera/13.0sp1/lab6 - Copy/Reg.vhd|
+Z41 !s107 C:/altera/13.0sp1/lab6 - Copy/Reg.vhd|
+R13
+R14
+!s100 ]F9UP4I3m1Ii8fN@DeYSe1
+!i10b 1
+Artl
+R4
+R5
+DEx4 work 3 reg 0 22 k6I;c^<deNP1]<I9^9?G42
+l15
+L13
+VUF0N73R?H31G_^QR1UjQ]3
+R9
+33
+R39
+R40
+R41
+R13
+R14
+!s100 QkW5>:OTWJk^dFXzda3Ve1
+!i10b 1
